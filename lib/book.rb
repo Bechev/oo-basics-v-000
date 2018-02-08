@@ -9,6 +9,6 @@ class Book
   end
 
   def turn_page
-    something
+    
   end
 end
