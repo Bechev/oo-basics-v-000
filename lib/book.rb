@@ -7,4 +7,7 @@ class Book
   def title
     @title
   end
+
+  def turn_page
+  end
 end
