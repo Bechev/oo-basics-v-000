@@ -4,6 +4,6 @@ class Book
   end
 
   def title
-    @titel
+    @title
   end
 end
